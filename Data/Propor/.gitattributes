@@ -1,0 +1,2 @@
+assin-test-gold/assin-ptbr-test.xml filter=lfs diff=lfs merge=lfs -text
+assin-test-gold/assin-ptpt-test.xml filter=lfs diff=lfs merge=lfs -text

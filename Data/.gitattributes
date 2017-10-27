@@ -1,0 +1,15 @@
+Propor/assin-ptbr-test-synomy.csv filter=lfs diff=lfs merge=lfs -text
+Propor/assin-ptbr-test-synonym-hyponomy.csv filter=lfs diff=lfs merge=lfs -text
+Propor/assin-ptbr-train.xml filter=lfs diff=lfs merge=lfs -text
+Propor/assin-ptbr-train-hyponomy.csv filter=lfs diff=lfs merge=lfs -text
+Propor/assin-test-gold filter=lfs diff=lfs merge=lfs -text
+Propor/sentences_train_synomy.txt filter=lfs diff=lfs merge=lfs -text
+Propor/assin-ptbr-test.xml filter=lfs diff=lfs merge=lfs -text
+Propor/assin-ptbr-test-hyponomy.csv filter=lfs diff=lfs merge=lfs -text
+Propor/assin-ptbr-train-synomy.csv filter=lfs diff=lfs merge=lfs -text
+Propor/assin-ptbr-train-synonym-hyponomy.csv filter=lfs diff=lfs merge=lfs -text
+Propor/sentences_test_synomy.txt filter=lfs diff=lfs merge=lfs -text
+SemEval2012/test-gold filter=lfs diff=lfs merge=lfs -text
+SemEval2012/train filter=lfs diff=lfs merge=lfs -text
+SemEval2012/semeval_2012_unified_test.txt filter=lfs diff=lfs merge=lfs -text
+SemEval2012/semeval_2012_unified_train.txt filter=lfs diff=lfs merge=lfs -text
