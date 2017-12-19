@@ -1,0 +1,256 @@
+cor,cor;mse,1;normalizacao;description;Classificador;Sinonimos + delaf;Hiponimos;Hiperonimos;Hiponimos + Hiperonimos;Média WE
+0,199131291;0,834787233;Não;target~ embeddings_sum;GLM;Sim;Não;Não;Não;Sim
+0,051993035;0,800782852;Não;target~ embeddings_pca;GLM;Sim;Não;Não;Não;Sim
+0,441530411;0,669914275;Não;target~ tfidf;GLM;Sim;Não;Não;Não;Sim
+0,199131543;0,836547169;Não;target~ penality,rowsums;GLM;Sim;Não;Não;Não;Sim
+0,527077309;0,552444204;Não;target~ ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,61585613;0,502262447;Não;target~ common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,61585613;0,502262447;Não;target~ uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,025145689;0,759543073;Não;target~ antonym;GLM;Sim;Não;Não;Não;Sim
+0,187386269;0,827993543;Não;target~ embeddings_sum + embeddings_pca;GLM;Sim;Não;Não;Não;Sim
+0,469209382;0,824129384;Não;target~ embeddings_sum + tfidf;GLM;Sim;Não;Não;Não;Sim
+0,199203548;284.749.017.798.746;Não;target~ embeddings_sum + penality,rowsums;GLM;Sim;Não;Não;Não;Sim
+0,51982255;0,568312147;Não;target~ embeddings_sum + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,629320695;0,46222869;Não;target~ embeddings_sum + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,629320695;0,46222869;Não;target~ embeddings_sum + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,20092715;0,833377303;Não;target~ embeddings_sum + antonym;GLM;Sim;Não;Não;Não;Sim
+0,423917896;0,674849166;Não;target~ embeddings_pca + tfidf;GLM;Sim;Não;Não;Não;Sim
+0,187514719;0,82932457;Não;target~ embeddings_pca + penality,rowsums;GLM;Sim;Não;Não;Não;Sim
+0,50924808;0,563940061;Não;target~ embeddings_pca + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,600041126;0,513973148;Não;target~ embeddings_pca + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,600041126;0,513973148;Não;target~ embeddings_pca + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,053149587;0,800323961;Não;target~ embeddings_pca + antonym;GLM;Sim;Não;Não;Não;Sim
+0,469025169;0,826351831;Não;target~ tfidf + penality,rowsums;GLM;Sim;Não;Não;Não;Sim
+0,557233234;0,545695474;Não;target~ tfidf + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,636721326;0,460898952;Não;target~ tfidf + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,636721326;0,460898952;Não;target~ tfidf + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,441612844;0,669832751;Não;target~ tfidf + antonym;GLM;Sim;Não;Não;Não;Sim
+0,519733218;0,568638603;Não;target~ penality,rowsums + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,629267355;0,462241786;Não;target~ penality,rowsums + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,629267355;0,462241786;Não;target~ penality,rowsums + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,200922102;0,835132648;Não;target~ penality,rowsums + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637275924;0,473529791;Não;target~ ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,637275924;0,473529791;Não;target~ ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,527503132;0,55215679;Não;target~ ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,61585613;0,502262447;Não;target~ common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,615720386;0,502313257;Não;target~ common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,615720386;0,502313257;Não;target~ uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,467986423;0,811438871;Não;target~ embeddings_sum + embeddings_pca + tfidf;GLM;Sim;Não;Não;Não;Sim
+0,199204805;277.251.672.469.465;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums;GLM;Sim;Não;Não;Não;Sim
+0,512698435;0,570210999;Não;target~ embeddings_sum + embeddings_pca + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,621690086;0,468678183;Não;target~ embeddings_sum + embeddings_pca + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,621690086;0,468678183;Não;target~ embeddings_sum + embeddings_pca + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,188812901;0,826746735;Não;target~ embeddings_sum + embeddings_pca + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199065801;344.086.295.355.238;Não;target~ embeddings_sum + tfidf + penality,rowsums;GLM;Sim;Não;Não;Não;Sim
+0,551926346;0,621675843;Não;target~ embeddings_sum + tfidf + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,649299974;0,468480112;Não;target~ embeddings_sum + tfidf + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,649299974;0,468480112;Não;target~ embeddings_sum + tfidf + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,469494818;0,823789203;Não;target~ embeddings_sum + tfidf + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199290328;11.055.121.582.923;Não;target~ embeddings_sum + penality,rowsums + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199425753;635.109.560.663.929;Não;target~ embeddings_sum + penality,rowsums + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199425753;635.109.560.663.935;Não;target~ embeddings_sum + penality,rowsums + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199203599;28.470.196.094.474;Não;target~ embeddings_sum + penality,rowsums + antonym;GLM;Sim;Não;Não;Não;Sim
+0,642295386;0,449526017;Não;target~ embeddings_sum + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,642295386;0,449526017;Não;target~ embeddings_sum + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,520467388;0,567746806;Não;target~ embeddings_sum + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,629320695;0,46222869;Não;target~ embeddings_sum + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,629142649;0,462375355;Não;target~ embeddings_sum + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,629142649;0,462375355;Não;target~ embeddings_sum + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,467826292;0,813502451;Não;target~ embeddings_pca + tfidf + penality,rowsums;GLM;Sim;Não;Não;Não;Sim
+0,546331294;0,55095858;Não;target~ embeddings_pca + tfidf + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,627225639;0,467662636;Não;target~ embeddings_pca + tfidf + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,627225639;0,467662636;Não;target~ embeddings_pca + tfidf + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,423980099;0,674787321;Não;target~ embeddings_pca + tfidf + antonym;GLM;Sim;Não;Não;Não;Sim
+0,512637538;0,570460829;Não;target~ embeddings_pca + penality,rowsums + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,621658424;0,468648785;Não;target~ embeddings_pca + penality,rowsums + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,621658424;0,468648785;Não;target~ embeddings_pca + penality,rowsums + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,18893916;0,828074341;Não;target~ embeddings_pca + penality,rowsums + antonym;GLM;Sim;Não;Não;Não;Sim
+0,627357293;0,481463028;Não;target~ embeddings_pca + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,627357293;0,481463028;Não;target~ embeddings_pca + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,509665615;0,563651295;Não;target~ embeddings_pca + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,600041126;0,513973148;Não;target~ embeddings_pca + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,599881289;0,514040764;Não;target~ embeddings_pca + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,599881289;0,514040764;Não;target~ embeddings_pca + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,551797913;0,622645684;Não;target~ tfidf + penality,rowsums + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,649222644;0,468938564;Não;target~ tfidf + penality,rowsums + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,649222644;0,468938564;Não;target~ tfidf + penality,rowsums + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,469310476;0,826010893;Não;target~ tfidf + penality,rowsums + antonym;GLM;Sim;Não;Não;Não;Sim
+0,647304897;0,450935113;Não;target~ tfidf + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,647304897;0,450935113;Não;target~ tfidf + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,557398301;0,545541793;Não;target~ tfidf + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,636721326;0,460898952;Não;target~ tfidf + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,636508102;0,46105876;Não;target~ tfidf + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,636508102;0,46105876;Não;target~ tfidf + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,642257646;0,449513336;Não;target~ penality,rowsums + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,642257646;0,449513336;Não;target~ penality,rowsums + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,52037825;0,568072132;Não;target~ penality,rowsums + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,629267355;0,462241786;Não;target~ penality,rowsums + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,629089135;0,462388937;Não;target~ penality,rowsums + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,629089135;0,462388937;Não;target~ penality,rowsums + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637275924;0,473529791;Não;target~ ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,637180237;0,473581284;Não;target~ ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637180237;0,473581284;Não;target~ ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,615720386;0,502313257;Não;target~ common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,19906769;367.702.706.730.635;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums;GLM;Sim;Não;Não;Não;Sim
+0,550351065;0,616278237;Não;target~ embeddings_sum + embeddings_pca + tfidf + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,646946679;0,467582168;Não;target~ embeddings_sum + embeddings_pca + tfidf + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,646946679;0,467582168;Não;target~ embeddings_sum + embeddings_pca + tfidf + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,468250222;0,811132663;Não;target~ embeddings_sum + embeddings_pca + tfidf + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199293041;107.166.345.192.152;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199431383;61.217.557.073.311;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199431383;612.175.570.733.116;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199204852;277.211.143.841.457;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637363211;0,454121362;Não;target~ embeddings_sum + embeddings_pca + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,637363211;0,454121362;Não;target~ embeddings_sum + embeddings_pca + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,513306864;0,56968435;Não;target~ embeddings_sum + embeddings_pca + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,621690086;0,468678183;Não;target~ embeddings_sum + embeddings_pca + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,621493066;0,468839747;Não;target~ embeddings_sum + embeddings_pca + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,621493066;0,468839747;Não;target~ embeddings_sum + embeddings_pca + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199064083;615.850.000.330.792;Não;target~ embeddings_sum + tfidf + penality,rowsums + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199013648;396.187.270.932.782;Não;target~ embeddings_sum + tfidf + penality,rowsums + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199013648;39.618.727.093.276;Não;target~ embeddings_sum + tfidf + penality,rowsums + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199065922;345.948.580.627.483;Não;target~ embeddings_sum + tfidf + penality,rowsums + antonym;GLM;Sim;Não;Não;Não;Sim
+0,653901767;0,453550906;Não;target~ embeddings_sum + tfidf + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,653901767;0,453550906;Não;target~ embeddings_sum + tfidf + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,552239977;0,621327832;Não;target~ embeddings_sum + tfidf + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,649299974;0,468480112;Não;target~ embeddings_sum + tfidf + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,64900199;0,468769566;Não;target~ embeddings_sum + tfidf + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,64900199;0,468769566;Não;target~ embeddings_sum + tfidf + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199509647;406.497.065.813.776;Não;target~ embeddings_sum + penality,rowsums + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199509647;406.497.065.813.792;Não;target~ embeddings_sum + penality,rowsums + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199290466;110.503.370.869.855;Não;target~ embeddings_sum + penality,rowsums + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199425753;635.109.560.663.929;Não;target~ embeddings_sum + penality,rowsums + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199425545;635.301.759.105.203;Não;target~ embeddings_sum + penality,rowsums + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199425545;635.301.759.105.257;Não;target~ embeddings_sum + penality,rowsums + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,642295386;0,449526017;Não;target~ embeddings_sum + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,642197262;0,449608455;Não;target~ embeddings_sum + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,642197262;0,449608455;Não;target~ embeddings_sum + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,629142649;0,462375355;Não;target~ embeddings_sum + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,550238725;0,617165372;Não;target~ embeddings_pca + tfidf + penality,rowsums + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+0,646881773;0,467989149;Não;target~ embeddings_pca + tfidf + penality,rowsums + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,646881773;0,467989149;Não;target~ embeddings_pca + tfidf + penality,rowsums + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,468089988;0,81319562;Não;target~ embeddings_pca + tfidf + penality,rowsums + antonym;GLM;Sim;Não;Não;Não;Sim
+0,639653163;0,456763648;Não;target~ embeddings_pca + tfidf + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,639653163;0,456763648;Não;target~ embeddings_pca + tfidf + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,546486267;0,550815678;Não;target~ embeddings_pca + tfidf + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,627225639;0,467662636;Não;target~ embeddings_pca + tfidf + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,626994431;0,467834831;Não;target~ embeddings_pca + tfidf + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,626994431;0,467834831;Não;target~ embeddings_pca + tfidf + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637337738;0,454085005;Não;target~ embeddings_pca + penality,rowsums + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,637337738;0,454085005;Não;target~ embeddings_pca + penality,rowsums + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,513246131;0,569933278;Não;target~ embeddings_pca + penality,rowsums + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,621658424;0,468648785;Não;target~ embeddings_pca + penality,rowsums + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,621461231;0,468810838;Não;target~ embeddings_pca + penality,rowsums + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,621461231;0,468810838;Não;target~ embeddings_pca + penality,rowsums + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,627357293;0,481463028;Não;target~ embeddings_pca + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,627244385;0,481526404;Não;target~ embeddings_pca + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,627244385;0,481526404;Não;target~ embeddings_pca + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,599881289;0,514040764;Não;target~ embeddings_pca + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,653839973;0,453855553;Não;target~ tfidf + penality,rowsums + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,653839973;0,453855553;Não;target~ tfidf + penality,rowsums + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,552111613;0,622296952;Não;target~ tfidf + penality,rowsums + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,649222644;0,468938564;Não;target~ tfidf + penality,rowsums + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,64892442;0,469228707;Não;target~ tfidf + penality,rowsums + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,64892442;0,469228707;Não;target~ tfidf + penality,rowsums + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,647304897;0,450935113;Não;target~ tfidf + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,647137751;0,451056899;Não;target~ tfidf + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,647137751;0,451056899;Não;target~ tfidf + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,636508102;0,46105876;Não;target~ tfidf + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,642257646;0,449513336;Não;target~ penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,642159444;0,449595995;Não;target~ penality,rowsums + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,642159444;0,449595995;Não;target~ penality,rowsums + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,629089135;0,462388937;Não;target~ penality,rowsums + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637180237;0,473581284;Não;target~ ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199065314;640.799.398.493.727;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + ngram_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199016202;41.440.589.221.178;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199016202;414.405.892.211.714;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199067794;369.501.529.648.305;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + antonym;GLM;Sim;Não;Não;Não;Sim
+0,651701637;0,453439693;Não;target~ embeddings_sum + embeddings_pca + tfidf + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,651701637;0,453439693;Não;target~ embeddings_sum + embeddings_pca + tfidf + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,55064947;0,615954488;Não;target~ embeddings_sum + embeddings_pca + tfidf + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,646946679;0,467582168;Não;target~ embeddings_sum + embeddings_pca + tfidf + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,646638686;0,467876677;Não;target~ embeddings_sum + embeddings_pca + tfidf + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,646638686;0,467876677;Não;target~ embeddings_sum + embeddings_pca + tfidf + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199517556;390.293.496.547.555;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199517556;390.293.496.547.566;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199293173;107.123.207.102.248;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199431383;61.217.557.073.311;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199431168;612.354.006.900.381;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199431168;612.354.006.900.413;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637363211;0,454121362;Não;target~ embeddings_sum + embeddings_pca + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,637248933;0,454216674;Não;target~ embeddings_sum + embeddings_pca + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637248933;0,454216674;Não;target~ embeddings_sum + embeddings_pca + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,621493066;0,468839747;Não;target~ embeddings_sum + embeddings_pca + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199022849;492.881.408.314.503;Não;target~ embeddings_sum + tfidf + penality,rowsums + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199022849;492.881.408.314.432;Não;target~ embeddings_sum + tfidf + penality,rowsums + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199064205;619.110.361.434.905;Não;target~ embeddings_sum + tfidf + penality,rowsums + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199013648;396.187.270.932.782;Não;target~ embeddings_sum + tfidf + penality,rowsums + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199013341;393.755.374.780.536;Não;target~ embeddings_sum + tfidf + penality,rowsums + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199013341;393.755.374.780.497;Não;target~ embeddings_sum + tfidf + penality,rowsums + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,653901767;0,453550906;Não;target~ embeddings_sum + tfidf + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,65368283;0,453764354;Não;target~ embeddings_sum + tfidf + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,65368283;0,453764354;Não;target~ embeddings_sum + tfidf + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,64900199;0,468769566;Não;target~ embeddings_sum + tfidf + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199509647;406.497.065.813.776;Não;target~ embeddings_sum + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199509386;406.707.676.721.061;Não;target~ embeddings_sum + penality,rowsums + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199509386;40.670.767.672.106;Não;target~ embeddings_sum + penality,rowsums + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199425545;635.301.759.105.203;Não;target~ embeddings_sum + penality,rowsums + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,642197262;0,449608455;Não;target~ embeddings_sum + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,651649835;0,453704916;Não;target~ embeddings_pca + tfidf + penality,rowsums + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,651649835;0,453704916;Não;target~ embeddings_pca + tfidf + penality,rowsums + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,550537195;0,61684101;Não;target~ embeddings_pca + tfidf + penality,rowsums + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,646881773;0,467989149;Não;target~ embeddings_pca + tfidf + penality,rowsums + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,646573543;0,46828431;Não;target~ embeddings_pca + tfidf + penality,rowsums + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,646573543;0,46828431;Não;target~ embeddings_pca + tfidf + penality,rowsums + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,639653163;0,456763648;Não;target~ embeddings_pca + tfidf + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,639470451;0,456896488;Não;target~ embeddings_pca + tfidf + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,639470451;0,456896488;Não;target~ embeddings_pca + tfidf + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,626994431;0,467834831;Não;target~ embeddings_pca + tfidf + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637337738;0,454085005;Não;target~ embeddings_pca + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,637223378;0,454180551;Não;target~ embeddings_pca + penality,rowsums + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637223378;0,454180551;Não;target~ embeddings_pca + penality,rowsums + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,621461231;0,468810838;Não;target~ embeddings_pca + penality,rowsums + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,627244385;0,481526404;Não;target~ embeddings_pca + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,653839973;0,453855553;Não;target~ tfidf + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,653620861;0,454069531;Não;target~ tfidf + penality,rowsums + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,653620861;0,454069531;Não;target~ tfidf + penality,rowsums + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,64892442;0,469228707;Não;target~ tfidf + penality,rowsums + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,647137751;0,451056899;Não;target~ tfidf + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,642159444;0,449595995;Não;target~ penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199024805;511.504.932.143.931;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + ngram_proportion + common_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199024805;511.504.932.143.898;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + ngram_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199065425;643.977.841.333.562;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + ngram_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199016202;41.440.589.221.178;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199015901;411.846.980.512.155;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199015901;411.846.980.512.096;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,651701637;0,453439693;Não;target~ embeddings_sum + embeddings_pca + tfidf + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,651473167;0,4536589;Não;target~ embeddings_sum + embeddings_pca + tfidf + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,651473167;0,4536589;Não;target~ embeddings_sum + embeddings_pca + tfidf + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,646638686;0,467876677;Não;target~ embeddings_sum + embeddings_pca + tfidf + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199517556;390.293.496.547.555;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,199517282;39.049.795.768.405;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199517282;390.497.957.684.095;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199431168;612.354.006.900.381;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637248933;0,454216674;Não;target~ embeddings_sum + embeddings_pca + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199022849;492.881.408.314.503;Não;target~ embeddings_sum + tfidf + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,199022663;490.868.602.370.124;Não;target~ embeddings_sum + tfidf + penality,rowsums + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199022663;490.868.602.370.081;Não;target~ embeddings_sum + tfidf + penality,rowsums + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199013341;393.755.374.780.536;Não;target~ embeddings_sum + tfidf + penality,rowsums + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,65368283;0,453764354;Não;target~ embeddings_sum + tfidf + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199509386;406.707.676.721.061;Não;target~ embeddings_sum + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,651649835;0,453704916;Não;target~ embeddings_pca + tfidf + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+0,651421193;0,45392463;Não;target~ embeddings_pca + tfidf + penality,rowsums + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,651421193;0,45392463;Não;target~ embeddings_pca + tfidf + penality,rowsums + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,646573543;0,46828431;Não;target~ embeddings_pca + tfidf + penality,rowsums + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,639470451;0,456896488;Não;target~ embeddings_pca + tfidf + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,637223378;0,454180551;Não;target~ embeddings_pca + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,653620861;0,454069531;Não;target~ tfidf + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199024805;511.504.932.143.931;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion;GLM;Sim;Não;Não;Não;Sim
+-0,19902462;509.370.729.786.907;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + ngram_proportion + common_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,19902462;509.370.729.786.834;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + ngram_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199015901;411.846.980.512.155;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,651473167;0,4536589;Não;target~ embeddings_sum + embeddings_pca + tfidf + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,199517282;39.049.795.768.405;Não;target~ embeddings_sum + embeddings_pca + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,199022663;490.868.602.370.124;Não;target~ embeddings_sum + tfidf + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+0,651421193;0,45392463;Não;target~ embeddings_pca + tfidf + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
+-0,19902462;509.370.729.786.907;Não;target~ embeddings_sum + embeddings_pca + tfidf + penality,rowsums + ngram_proportion + common_word_proportion + uncommon_word_proportion + antonym;GLM;Sim;Não;Não;Não;Sim
