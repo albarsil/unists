@@ -87,7 +87,7 @@ A abordagem contida neste repositório contempla somente os itens contidos dentr
 
 A aplicação web esta disponível no repositório [unists-website](https://github.com/albarsil/unists-website);
 
-O web service desenvolvido encontra-se no repositório [WebServiceTextMining](https://github.com/albarsil/WebServiceTextMining).
+O web service desenvolvido encontra-se no repositório [unists-webservice](https://github.com/albarsil/unists-webservice-textmining).
 
 O fluxo idealizado para utilização conjunta das informações é descrita na figura abaixo:
 
