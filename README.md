@@ -30,6 +30,10 @@
 
     Silva, A., Rigo, S., Alves, I. M., & Barbosa, J. (2017). Avaliando a similaridade semântica entre frases curtas através de uma abordagem híbrida (A hybrid approach to measure Semantic Textual Similarity between short sentences in Brazilian Portuguese)[In Portuguese]. In Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology (pp. 93-102).
     
+2. [Enhancing Brazilian Portuguese Textual Entailment Recognition with a Hybrid Approach](http://thescipub.com/abstract/10.3844/ofsp.12054)
+
+    BARCELOS, Allan; RIGO, Sandro José. Enhancing Brazilian Portuguese Textual Entailment Recognition with a Hybrid Approach. Journal of Computer Science, [s. l.], 2018.
+        
 ---
 
 ## Conjunto de dados utilizado para treinamento do algoritmo
