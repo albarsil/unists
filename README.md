@@ -26,11 +26,15 @@
 
 ## Trabalhos publicados:
 
-1. [Avaliando a similaridade semântica entre frases curtas através de uma abordagem híbrida](http://www.aclweb.org/anthology/W17-6612)
+1. [Dissertação - O uso de recursos linguísticos para mensurar a semelhança semântica entre frases curtas através de uma abordagem híbrida](http://www.repositorio.jesuita.org.br/handle/UNISINOS/6974)
+
+    SILVA, A. O uso de recursos linguísticos para mensurar a semelhança semântica entre frases curtas através de uma abordagem híbrida. Dissertação (Mestrado em Computação Aplicada) – Programa de Pós-Graduação em Computação Aplicada, Universidade do Vale do Rio dos Sinos. São Leopoldo, p. 87. 2017.
+
+2. [Avaliando a similaridade semântica entre frases curtas através de uma abordagem híbrida](http://www.aclweb.org/anthology/W17-6612)
 
     Silva, A., Rigo, S., Alves, I. M., & Barbosa, J. (2017). Avaliando a similaridade semântica entre frases curtas através de uma abordagem híbrida (A hybrid approach to measure Semantic Textual Similarity between short sentences in Brazilian Portuguese)[In Portuguese]. In Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology (pp. 93-102).
     
-2. [Enhancing Brazilian Portuguese Textual Entailment Recognition with a Hybrid Approach](http://thescipub.com/abstract/10.3844/ofsp.12054)
+3. [Enhancing Brazilian Portuguese Textual Entailment Recognition with a Hybrid Approach](http://thescipub.com/abstract/10.3844/ofsp.12054)
 
     BARCELOS, Allan; RIGO, Sandro José. Enhancing Brazilian Portuguese Textual Entailment Recognition with a Hybrid Approach. Journal of Computer Science, [s. l.], 2018.
         
