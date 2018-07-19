@@ -26,7 +26,7 @@
 
 ## Trabalhos publicados:
 
-1. [Dissertação - O uso de recursos linguísticos para mensurar a semelhança semântica entre frases curtas através de uma abordagem híbrida](http://www.repositorio.jesuita.org.br/handle/UNISINOS/6974)
+1. [O uso de recursos linguísticos para mensurar a semelhança semântica entre frases curtas através de uma abordagem híbrida](http://www.repositorio.jesuita.org.br/handle/UNISINOS/6974)
 
     SILVA, A. O uso de recursos linguísticos para mensurar a semelhança semântica entre frases curtas através de uma abordagem híbrida. Dissertação (Mestrado em Computação Aplicada) – Programa de Pós-Graduação em Computação Aplicada, Universidade do Vale do Rio dos Sinos. São Leopoldo, p. 87. 2017.
 
