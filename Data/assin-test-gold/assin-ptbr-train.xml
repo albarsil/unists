@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <entailment-corpus>
     <pair entailment="None" id="1" similarity="2.0">
         <t>A gente faz o aporte financeiro, é como se a empresa fosse parceira do Monte Cristo.</t>
@@ -674,7 +674,7 @@
     </pair>
     <pair entailment="Entailment" id="169" similarity="4.0">
         <t>Leonardo DiCaprio (‘A Origem’), Tom Hardy, Will Poulter e Domhnall Gleeson estrelam no filme  "O Regresso".</t>
-        <h>?O Regresso? conta com atuações de Leonardo DiCaprio e Tom Hardy.</h>
+        <h>O Regresso conta com atuações de Leonardo DiCaprio e Tom Hardy.</h>
     </pair>
     <pair entailment="Entailment" id="170" similarity="4.0">
         <t>Os outros cinco principais reservatórios de abastecimento registraram aumento do volume de água armazenada.</t>
@@ -1917,7 +1917,7 @@
         <h>Ao mesmo tempo, o tribunal absolveu outros oito policiais.</h>
     </pair>
     <pair entailment="None" id="480" similarity="2.25">
-        <t>Foi o primeiro ataque a uma missão diplom?tica desde a destituição de Mursi.</t>
+        <t>Foi o primeiro ataque a uma missão diplomрtica desde a destituição de Mursi.</t>
         <h>O ataque foi reivindicado pelo ramo egípcio do EI.</h>
     </pair>
     <pair entailment="None" id="481" similarity="2.0">
@@ -3465,7 +3465,7 @@
         <h>Lulu tentou isentar a Globo e a direção de The Voice Brasil da crítica.</h>
     </pair>
     <pair entailment="None" id="867" similarity="2.25">
-        <t>Diego Souza marcou para o Sport aos 39'.</t>
+        <t>Diego Souza marcou para o Sport aos 39′.</t>
         <h>Werley cometeu falta em Diego Souza na entrada da meia-lua.</h>
     </pair>
     <pair entailment="None" id="868" similarity="3.5">
@@ -3761,7 +3761,7 @@
         <h>As diversas categorias negociaram uma reunião com Brum e com os 15 deputados da Assembleia Legislativa.</h>
     </pair>
     <pair entailment="None" id="941" similarity="3.0">
-        <t>O veto ao projeto deverá ser publicado na edição de hoje do ?Diário Oficial da União?.</t>
+        <t>O veto ao projeto deverá ser publicado na edição de hoje do Diário Oficial da União.</t>
         <h>Resolução sobre tema foi publicada ontem no Diário Oficial da União.</h>
     </pair>
     <pair entailment="None" id="942" similarity="3.5">
@@ -4769,7 +4769,7 @@
         <h>O sucesso dos "Minions" é maior fora dos Estados Unidos.</h>
     </pair>
     <pair entailment="None" id="1193" similarity="1.0">
-        <t>O tempo hoje deve ser de ?sol com algumas nuvens?.</t>
+        <t>O tempo hoje deve ser de sol com algumas nuvens.</t>
         <h>O tema foi manchete do jornal O Tempo, de BH, hoje.</h>
     </pair>
     <pair entailment="None" id="1194" similarity="2.5">
@@ -4989,7 +4989,7 @@
         <h>Só que internamente a história não é a que foi contada pelo dirigente.</h>
     </pair>
     <pair entailment="None" id="1248" similarity="3.25">
-        <t>A partida terminou aos 49' com goleada do Palmeiras por 5 a 1 em cima do Sampaio Corrêa.</t>
+        <t>A partida terminou aos 49′ com goleada do Palmeiras por 5 a 1 em cima do Sampaio Corrêa.</t>
         <h>Torcedores do Palmeiras se desentenderam após o Sampaio Corrêa marcar o gol.</h>
     </pair>
     <pair entailment="Paraphrase" id="1249" similarity="5.0">
@@ -5873,7 +5873,7 @@
         <h>Três minutos depois, Rakitic lançou Messi no comando do ataque.</h>
     </pair>
     <pair entailment="None" id="1469" similarity="2.75">
-        <t>Robinho cobrou falta, Rafael Marques cabeceou e Danilo defendeu aos 3'.</t>
+        <t>Robinho cobrou falta, Rafael Marques cabeceou e Danilo defendeu aos 3′.</t>
         <h>Rafael Marques, com chutes aos 18 e 21, levou perigo para Danilo.</h>
     </pair>
     <pair entailment="Paraphrase" id="1470" similarity="4.75">
@@ -6961,7 +6961,7 @@
         <h>Um golaço do meia que fez seu primeiro gol no Brasileirão.</h>
     </pair>
     <pair entailment="None" id="1741" similarity="2.0">
-        <t>O técnico Juan Carlos Osorio também foi expulso por reclamação, aos 41'.</t>
+        <t>O técnico Juan Carlos Osorio também foi expulso por reclamação, aos 41′.</t>
         <h>Voltou a ficar impedido com frequência e foi expulso por reclamação.</h>
     </pair>
     <pair entailment="None" id="1742" similarity="2.25">
